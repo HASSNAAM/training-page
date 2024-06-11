@@ -40,7 +40,7 @@ body {
 
 .services .service-text {
   position: absolute;
-  top: 80%;
+  top: 75%;
   left: 50%;
   color: white;
   transform: translate(-50%, -50%);
@@ -71,11 +71,11 @@ body {
 }
 
 footer {
-  margin-top: 5rem;
+  margin-top: 30px;
 }
-
-.sections {
-  position: relative;
-  bottom: 50px;
-  margin-left: 10px;
+.card {
+  margin-bottom: 15px;
+}
+.navbar-collapse {
+  flex-grow: 0;
 }
